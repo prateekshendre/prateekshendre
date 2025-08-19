@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I’m Prateek Shendre
 
 **Sr. Investment Risk Analyst | Driving Finance Forward with Data Science & ML**
@@ -51,5 +49,3 @@
 ---
 
 *“Finance is evolving. I make sure I evolve faster.”*
-
----
